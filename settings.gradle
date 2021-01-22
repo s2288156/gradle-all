@@ -12,4 +12,5 @@ pluginManagement {
     }
 }
 rootProject.name = 'gradle-all'
+include 'learning-all'
 
